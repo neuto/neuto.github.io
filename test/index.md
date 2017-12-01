@@ -1,3 +1,15 @@
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
-$$ \sum $$
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8">
+    <title>HTMLの書き方</title>
+    <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
+  </head>
+  <body>
+    <h1>HTMLの書き方</h1>
+    <p>はじめてのHTMLを作りました</p>
+    <p>$$ \sum $$</p>
+  </body>
+</html>
